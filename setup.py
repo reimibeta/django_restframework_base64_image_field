@@ -13,9 +13,9 @@ setup(
     # py_modules=['image_compress',],
     install_requires=[
         # other dependencies
-        'Django' == '4.1.7',
-        'djangorestframework' == '3.14.0',
-        'six' == '1.16.0'
+        'Django==4.1.7',
+        'djangorestframework==3.14.0',
+        'six==1.16.0'
     ],
     # other optional arguments
 )
